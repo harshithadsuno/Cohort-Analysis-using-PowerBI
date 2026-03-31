@@ -17,7 +17,7 @@ This project analyzes customer behavior over time using cohort analysis techniqu
 ## Dashboard Screenshots
 
 ### Customer Retention
-![Customer Retention](customer_retention.png)
+![Customer Retention](customer_retention - Copy.png)
 
 ### Revenue Retention
 ![Revenue Retention](revenue_retention.png)
