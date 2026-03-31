@@ -20,10 +20,10 @@ This project analyzes customer behavior over time using cohort analysis techniqu
 ![Customer Retention](customer_retention - Copy.png)
 
 ### Revenue Retention
-![Revenue Retention](revenue_retention.png)
+![Revenue Retention](customer_retention - Copy.png)
 
 ### Customer Lifetime Value (CLV)
-![CLV](clv.png)
+![CLV](clv - Copy.png)
 
 ## Insights
 - Older cohorts show stabilization in retention over time
