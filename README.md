@@ -34,4 +34,4 @@ This project analyzes customer behavior over time using cohort analysis techniqu
 - Customer lifetime value increases cumulatively across periods
 
 ## How to Use
-Download the `.pbix` file and open in Power BI Desktop.
+Download the `Cohort Analysis Using PowerBI.pbix` file and open in Power BI Desktop.
